@@ -45,7 +45,7 @@ paginate = 6
   
   [[menu.main]]
   name = "Get early access"
-  URL = "quote"
+  URL = "footer"
   weight = 3
   
 
